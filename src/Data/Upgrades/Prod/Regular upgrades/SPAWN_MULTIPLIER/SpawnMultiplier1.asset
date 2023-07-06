@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a9829ff8b8e054980d478391d77364, type: 3}
+  m_Name: SpawnMultiplier1
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 6117156283939725590, guid: 9b88eebaa8edefa47a0977512a982c79, type: 3}
+  MaxLevel: 60
+  LocalTier: 1
+  InitialCost: 7.5
+  Title: DLS Internet
+  Description: Improve your bug's efficiency by 15% per level.
+  CategoryTag: SPAWN_MULTIPLIER
+  EffectModifier: 0.15
+  CostIncrementFactor: 1.2

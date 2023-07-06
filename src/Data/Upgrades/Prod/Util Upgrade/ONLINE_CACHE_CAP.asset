@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a9829ff8b8e054980d478391d77364, type: 3}
+  m_Name: ONLINE_CACHE_CAP
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 9167bc917838ff845a2bd260cadbba13, type: 3}
+  MaxLevel: 100
+  LocalTier: 0
+  InitialCost: 40
+  Title: Cache cap
+  Description: cache cap x2, cost = prev cap x0.2
+  CategoryTag: ONLINE_CACHE_CAP
+  EffectModifier: 2
+  CostIncrementFactor: 2

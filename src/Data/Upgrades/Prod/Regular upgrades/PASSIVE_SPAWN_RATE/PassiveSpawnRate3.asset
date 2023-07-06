@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a9829ff8b8e054980d478391d77364, type: 3}
+  m_Name: PassiveSpawnRate3
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -8038617067486223092, guid: 9b88eebaa8edefa47a0977512a982c79, type: 3}
+  MaxLevel: 40
+  LocalTier: 3
+  InitialCost: BN21.3G
+  Title: CPU inference
+  Description: Increase automatic bug's HP by 50% per level.
+  CategoryTag: PASSIVE_SPAWN_RATE
+  EffectModifier: 0.5
+  CostIncrementFactor: 1.3
