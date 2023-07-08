@@ -6,16 +6,18 @@ Greetings, everyone. Thank you for taking the time to read my post. I understand
 
 While this game is indeed complete, I must admit that it is kinda boring. As the developer behind this project, I make this statement because it is essentially a side project. My motivation and objective lie in traversing the entire path of game development, starting from scratch and concluding with its release. Therefore, for us, it represents more of a "from 0 to 1" experience rather than a pursuit of immediate financial success.
 
-I have decided to partially open-source the project, specifically the game code and data objects. However, assets, scenes, prefabs, and similar elements will not be included. Additionally, I aim to share the insights and lessons I have gained throughout this process. My hope is that these resources can provide assistance not only for your own projects but also for your professional growth and aspirations.
+I have decided to partially open-source the project, specifically the game code and data objects. However, assets, scenes, prefabs, and similar elements will not be included. A
+
+In this article, I am sharing some technical/implementation details, and lessons I have learnt throughout this process. My hope is that these resources can provide assistance not only for your own projects but also for your professional growth and aspirations.
 
 Source can be found in this Github repo: <https://github.com/snake3276120/ito_privacy_policy>.
-Don't laugh at me, the `REAMDME.MD` is a privacy policy, this post is also written in Markdown and it's kept in the same repo, called `Actual_Readme.md` lol. Source codes are in `.\src`.
+Don't laugh at me, the `REAMDME.MD` is a privacy policy. This post is also written in Markdown and it's kept in the same repo, called `Actual_Readme.md` lol. Source codes are in `.\src`.
 
 ### About Myself
 
-I am currently located in the Greater Toronto Area, specifically Markham, Ontario, Canada. In 2013, I graduated from the University of Toronto with a Bachelor's degree in Electrical Engineering.
+I am currently located in the Greater Toronto Area, specifically Markham. In 2013, I graduated from the University of Toronto with a Bachelor's degree in Electrical Engineering.
 
-I am employed full time as a lead level software engineer at a multinational corporation listed on the NYSE. While it may not be considered a FAANG (Facebook, Amazon, Apple, Netflix, Google) or similar top-tier company, it holds a prominent position in the industry. Prior to my current role, I have worked as a software developer in various domains. Additionally, I have a background of three years as an IC Test Engineer, which aligns with my educational background, albeit not as personally fulfilling.
+I am employed full time as a lead level software engineer at a multinational corporation listed on the NYSE. While it may not be considered a FAANG or similar top-tier company, it holds a prominent position in the industry. Prior to my current role, I have worked as a software developer in various domains. Additionally, I have a background of three years as an IC Test Engineer, which aligns with my educational background, albeit not as personally fulfilling.
 
 Throughout my life, I have been an avid gamer, starting from the tender age of five. However, with the arrival of my first child in 2021, my gaming activities have been greatly reduced, although I still manage to find time to play video games, almost on a daily basis, but with much less time.
 
@@ -51,11 +53,11 @@ At the time of written, there are only 1 additional team member besides me, who 
 - UI/UX designer: When the game is about 30% done, we find that we need some proper UI/UX design and we need some game assets (like sprites, icons, etc). I reached out to this guy, who's also a friend of mine and he gladly joined our project. He's also a pro UI/UX designer working full time. Unfortunately he left us near the end of the project, but at least he did his work well and sent me all the assets. The current UI and most icons are from his hand.
 - Artist #1: Every game needs artists. We found this guy via our connections. He didn't contribute that much, but all the turrets are done by him, and he laid out the base line for the intro. However, these base lines for the intro are not production ready, that's where Artist #2 came in.
 - Artist #2: Found him via a connection. Young guy still in collage. He did really well in creating digital arts. He completed the final version of the intro, and most icons for the upgrades. He's still with me and we are thinking about the next project.
-- Other people
-  - A data analyst who wanted to gain some coding experience. Unfortunately he's foundations are not there and didn't contribute that much. Hopefully he learnt something by joining the project
-  - A pro full stack software engineer who wants to work on a side project. Unfortunately she doesn't play game that much, so this game is not for her tastes. In addition she was doing part time Master program at the time.
+- Others
+  - A data analyst who wanted to gain some coding experience. Unfortunately he's foundations are not there and didn't contribute that much. Hopefully he learnt something by joining the project.
+  - A pro full stack software engineer who wants to work on a side project. Unfortunately she doesn't play game that much, the nature of this particular game did not align with her personal preferences. In addition she was doing part time Master program at the time, making her spare time occupied most of the time.
 
-That's it about the team. The core team used to be the co-founder, the UI/UX designer, and me. It's sad to see them go (but we are still close friends, and the co-founder helped quite a lot during the final testing and releasing of the game). In the [Takeaways](#takeaways) section I'll talk in more details there.
+That's it about the team. The core team used to be the co-founder, the UI/UX designer, and me. It's sad to see them go (but we are still close friends, and the co-founder helped quite a lot during the final testing and releasing of the game). In the [Takeaways](#takeaways) section I'll talk in more details.
 
 ## The Game
 
